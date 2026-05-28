@@ -13,6 +13,7 @@
 
   text-wrap: nowrap;
   overflow-x: auto;
+  isolation: isolate;
 }
 
 .title {
