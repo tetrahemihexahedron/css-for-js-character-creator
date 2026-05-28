@@ -10,9 +10,6 @@
     to deal with it yet!
   */
   margin-bottom: 32px;
-
-  white-space: nowrap;
-  overflow-x: auto;
 }
 
 .title {
@@ -26,8 +23,4 @@
   font-size: 0.875rem;
   font-weight: 400;
   color: hsl(0deg, 0%, 30%);
-}
-
-.controlPane h2 {
-  margin-bottom: 1rem;
 }
