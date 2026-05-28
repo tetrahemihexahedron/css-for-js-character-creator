@@ -4,12 +4,12 @@
 }
 
 .maxWidthWrapper {
+  position: relative;
 }
 
 .header {
   padding-bottom: 64px;
   width: 65%;
-  isolation: isolate;
 }
 
 .title {

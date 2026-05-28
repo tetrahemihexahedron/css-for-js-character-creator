@@ -11,9 +11,8 @@
   */
   margin-bottom: 32px;
 
-  text-wrap: nowrap;
+  white-space: nowrap;
   overflow-x: auto;
-  isolation: isolate;
 }
 
 .title {
